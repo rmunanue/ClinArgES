@@ -59,10 +59,16 @@ This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 Int
 
 ## Copyright
 Copyright (c) 2026 ClinArgES Corpus version 1 Desarrollado por: 
-[Nombre / Institución]
+
+Sofía Zakhir-Puig / University of Valencia (UV), Valencia, Spain
+Vanesa Vanesa / Rey Juan Carlos University (URJC), Madrid, Spain
+Miguel Ángel Rodríguez-García / National Distance Education University (UNED), Madrid, Spain
+Soto Montalvo / Rey Juan Carlos University (URJC), Madrid, Spain
+Raquel Martínez / National Distance Education University (UNED), Madrid, Spain
 
 The European Medicines Agency owns the copyright and other intellectual property rights of the documents from EudraCT.
 
 ## Contact
 
-nosotros
+Miguel Ángel Rodríguez-García (miguelangel.rodriguez@lsi.uned.es)
+Soto Montalvo ()soto.montalvo@urjc.es
