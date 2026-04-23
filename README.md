@@ -58,7 +58,7 @@ If you use this corpus, please cite the reference as follows:
 This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
 
 ## Copyright
-Copyright (c) 2026 ClinArgES Corpus version 1 Developed by: 
+Copyright (c) 2026 ClinArgES Corpus version 1. Developed by: 
 
 Sofía Zakhir-Puig / University of Valencia (UV), Valencia, Spain
 
@@ -70,10 +70,11 @@ Soto Montalvo / Rey Juan Carlos University (URJC), Madrid, Spain
 
 Raquel Martínez / National Distance Education University (UNED), Madrid, Spain
 
+
 The European Medicines Agency owns the copyright and other intellectual property rights of the documents from EudraCT.
 
 ## Contact
 
 Miguel Ángel Rodríguez-García (miguelangel.rodriguez@lsi.uned.es)
 
-Soto Montalvo ()soto.montalvo@urjc.es
+Soto Montalvo (soto.montalvo@urjc.es)
