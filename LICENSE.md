@@ -13,4 +13,5 @@ For the full legal code, please see: https://creativecommons.org/licenses/by-nc/
 Copyright (c) 2026 ClinArgES Corpus version 1
 
 If you use this corpus for research purposes, please cite the following paper:
-[Insertar cita aquí]
+
+[cite]
